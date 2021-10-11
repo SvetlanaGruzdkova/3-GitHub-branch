@@ -1,0 +1,17 @@
+ID
+
+Title
+
+Description
+
+Steps
+
+Actual result
+
+Expected result
+
+Severity
+
+Priority
+
+screen/video
